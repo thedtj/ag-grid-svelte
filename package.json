@@ -60,7 +60,8 @@
 	],
 	"pnpm": {
 		"onlyBuiltDependencies": [
-			"esbuild"
+			"esbuild",
+			"@tomatrow/ag-grid-svelte"
 		]
 	},
 	"packageManager": "pnpm@9.14.4",
