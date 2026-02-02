@@ -1,5 +1,5 @@
 {
-	"name": "@tomatrow/ag-grid-svelte",
+	"name": "@thedtj/ag-grid-svelte",
 	"version": "0.0.3",
 	"scripts": {
 		"dev": "vite dev",
@@ -60,7 +60,7 @@
 	],
 	"pnpm": {
 		"onlyBuiltDependencies": [
-			"esbuild"
+			"esbuild",
 		]
 	},
 	"packageManager": "pnpm@9.14.4"
